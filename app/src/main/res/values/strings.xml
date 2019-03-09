@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Apparel</string>
+
+    <array name="sectors">
+        <item>Home</item>
+        <item>Entertainment</item>
+        <item>Fashion</item>
+        <item>Automobile</item>
+        <item>Fitness</item>
+        <item>Toys</item>
+    </array>
+
+    <array name="Home">
+        <item>Grocery</item>
+        <item>Utility</item>
+        <item>Kitchen</item>
+        <item>Waterworks</item>
+        <item>Furniture</item>
+        <item>Other</item>
+    </array>
+
+    <array name="Entertainment">
+        <item>Grocery</item>
+        <item>Utility</item>
+        <item>Kitchen</item>
+        <item>Waterworks</item>
+        <item>Furniture</item>
+        <item>Other</item>
+    </array>
+
+    <array name="Fashion">
+        <item>Grocery</item>
+        <item>Utility</item>
+        <item>Kitchen</item>
+        <item>Waterworks</item>
+        <item>Furniture</item>
+        <item>Other</item>
+    </array>
+
+    <array name="Automobile">
+        <item>Grocery</item>
+        <item>Utility</item>
+        <item>Kitchen</item>
+        <item>Waterworks</item>
+        <item>Furniture</item>
+        <item>Other</item>
+    </array>
+
+    <array name="Fitness">
+        <item>Grocery</item>
+        <item>Utility</item>
+        <item>Kitchen</item>
+        <item>Waterworks</item>
+        <item>Furniture</item>
+        <item>Other</item>
+    </array>
+
+    <array name="Toys">
+        <item>Grocery</item>
+        <item>Utility</item>
+        <item>Kitchen</item>
+        <item>Waterworks</item>
+        <item>Furniture</item>
+        <item>Other</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
